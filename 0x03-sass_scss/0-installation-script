@@ -1,0 +1,5 @@
+1. Navigated to the project directory: alx-intermediate-frontend/0x03-sass_scss
+2. Checked if Node.js was installed using: node -v
+   (Installed version: v20.13.1)
+3. Installed Sass using the following command:
+   npm install sass
